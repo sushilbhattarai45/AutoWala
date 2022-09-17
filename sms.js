@@ -11,7 +11,7 @@ export default function App() {
     var data = {
       to: "9742993345",
       auth_token:
-        "241ce853e05422c4dca29b2ac40bfd6afbb6408eb858eec4775eb69fe0b0bbfe",
+        "",
       text: " Hello Sushil .Your code is : 1234  Regards Ride On",
     };
     fetch(url, {
